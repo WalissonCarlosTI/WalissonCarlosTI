@@ -17,7 +17,7 @@ Atualmente criando projetos na área de: :arrow_heading_down:
 Vamos nos conectar? :arrow_heading_down:
 
 <p>
-  <a href="http://linkedin.com/in/walissoncarlosti" target="_blank" rel="noreferrer noopener nofollow">
+  <a href="http://linkedin.com/in/walissoncarlosti" target="blank" rel="noreferrer noopener nofollow">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
   <a href="https://www.instagram.com/walisson_carlosvipp" target="_blank">
