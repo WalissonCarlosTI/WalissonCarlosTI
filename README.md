@@ -27,6 +27,11 @@ Vamos nos conectar? :arrow_heading_down:
 <br>
 <br>
 
+![](https://komarev.com/ghpvc/?username=WalissonCarlosTI)
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalissonCarlosTI)](https://github.com/anuraghazra/github-readme-stats)
 [![Walisson stats](https://github-readme-stats.vercel.app/api?username=WalissonCarlosTI)](https://github.com/anuraghazra/github-readme-stats)
 
 
