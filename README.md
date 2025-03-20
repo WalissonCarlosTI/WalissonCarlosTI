@@ -1,9 +1,6 @@
-<Olá! Sejam bem Vindos!!> :sunglasses:
-
+<Olá! Sejam bem Vindos!!>
 Esse é meu espaço de projetos!! :briefcase:
-
 Sou programador na área de Front-end, e Gestor de Tecnologia da Informação - TI. 
-
 Atualmente criando projetos na área de: :arrow_heading_down:
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
