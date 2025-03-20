@@ -23,6 +23,9 @@ Vamos nos conectar? :arrow_heading_down:
   <a href="https://www.instagram.com/walisson_carlosvipp" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
   </a>
+  <a href="https://wa.link/agm9p0">
+    <img href="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
 </p>
 <br>
 <br>
