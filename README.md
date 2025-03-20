@@ -4,7 +4,7 @@ Sou programador na área de Front-end e back-end, e Gestor de Tecnologia da Info
 
 [![Instagam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/walisson_carlosvipp)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WalissonCarlosTI)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](httsp://www.linkedin.com/in/walissoncarlosti)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walissoncarlosti/)
 
 ![Walisson Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=WalissonCarlosTI&show_icons=true&theme=radical)
 
